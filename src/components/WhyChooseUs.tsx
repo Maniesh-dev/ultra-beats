@@ -16,7 +16,7 @@ const WhyChooseUs = () => {
         <p>WHAT <span className='text-orange-600 font-semibold'>WE DO</span></p>
       </div>
       <div className='mx-auto h-full flex flex-col items-center justify-center'>
-        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 mb-10 gap-12 md:gap-6 px-8'>
+        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 mb-10 gap-12 md:gap-6'>
           <div className='flex flex-col items-center justify-center text-2xl gap-2 text-center text-gray-500 border-orange-600 border-b'>
             <Image className='w-full h-full rounded-xl object-cover object-center' src={weddingImg} alt="" width={500} height={500} />
             <p className='mb-2'>Weddings Events</p>

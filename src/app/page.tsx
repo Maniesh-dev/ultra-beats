@@ -7,7 +7,7 @@ import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <div className="p-6">
+    <div className="p-3">
       <Hero/>
       <RecentEvent/>
       <Awards/>

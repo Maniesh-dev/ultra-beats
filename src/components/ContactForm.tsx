@@ -55,7 +55,7 @@ export function ProfileForm() {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 border p-5 rounded-xl sm:max-w-[450px] w-full">
+      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4 border py-5 px-3 rounded-xl sm:max-w-[450px] w-full">
       <h1 className="text-3xl font-bold text-center text-orange-600">Leave Your Massage</h1>
         <FormField
           control={form.control}

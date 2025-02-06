@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Yatra+One&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -74,7 +74,7 @@ body {
 }
 
 .hero-text {
-  font-family: "Yatra One", serif;
+  font-family: "Russo One", serif;
   background: -webkit-linear-gradient(white, #FBA518);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
